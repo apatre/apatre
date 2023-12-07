@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Python Wizard, Data Engineer and Data Architect specialising in GCP stack.      
 I am 3x Google Certified.     
-[![Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57687690) [![Professional Cloud Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78774185) [![Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48652291)    
+![Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57687690) ![Professional Cloud Developer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/78774185) ![Associate Cloud Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/48652291)    
 
 
 ## 🌐 Socials:
